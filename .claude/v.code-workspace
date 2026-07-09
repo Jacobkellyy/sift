@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.expo"
+		},
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../app"
+		},
+		{
+			"path": "../app ui inspo"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../hooks"
+		},
+		{
+			"path": "../lib"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../sift"
+		},
+		{
+			"path": "../store"
+		}
+	]
+}
